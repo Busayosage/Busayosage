@@ -1,4 +1,4 @@
-# Hi, I'm Seun Oseola 👋
+ Hi, I'm Seun Oseola 👋
 
 Data Analyst | Python, SQL & Power BI | Turning Data into Operational Insights
 
@@ -6,64 +6,73 @@ I am a data analyst with a background in business process analysis and credit co
 
 ---
 
-# Featured Projects
+## Featured Projects
 
-## Predicting Demand for Perishable Goods
+### Predicting Demand for Perishable Goods
 Python project analysing historical sales data to forecast demand for perishable products.
 
-Tools used:
+**Tools used:**
 - Python
 - Pandas
 - NumPy
 - Exploratory Data Analysis
 - Forecasting
 
-Repository  
+**Repository**  
 https://github.com/Busayosage/predicting_demand_for_perishable_goods
 
 ---
 
-## E-commerce Customer Cohort Analysis
+### E-commerce Customer Cohort Analysis
 Customer retention analysis using cohort techniques to measure engagement and repeat purchase behaviour.
 
-Key analysis areas:
+**Key analysis areas:**
 - Customer retention trends
 - Customer lifecycle analysis
 - Repeat purchase behaviour
-- Cohort based engagement tracking
+- Cohort-based engagement tracking
 
-Tools used:
+**Tools used:**
 - Python
 - Pandas
 - Data visualisation
 - Cohort analysis
 
-Repository  
+**Repository**  
 https://github.com/Busayosage/ecommerce-cohort-analysis
 
 ---
 
-## Twilio Operational Impact Analysis
+### Twilio Operational Impact Analysis
 Business analytics project analysing the operational impact of Twilio communication technology on credit control operations.
 
-Key insights:
+**Key insights:**
 - Reduction in payment calls
-- Revenue generating outcomes
+- Revenue-generating outcomes
 - Operational time savings
 - Agent workload analysis
 
-Tools used:
+**Tools used:**
 - Microsoft Excel
-- Pivot tables
+- Pivot Tables
 - KPI analysis
 - Operational dashboards
 
-Repository  
+**Repository**  
 https://github.com/Busayosage/Twilio_introduction_impact_on_business_operations
 
 ---
 
-# Skills
+## Project Visuals
+
+### Twilio Operational Dashboard
+![Twilio Dashboard](twilio_dashboard.png)
+
+Example operational dashboard analysing call outcomes, revenue indicators, and workload distribution after introducing Twilio communication technology.
+
+---
+
+## Skills
 
 - Data Analysis
 - Business Analytics
@@ -75,10 +84,10 @@ https://github.com/Busayosage/Twilio_introduction_impact_on_business_operations
 
 ---
 
-# Connect With Me
+## Connect With Me
 
-LinkedIn  
+**LinkedIn**  
 https://www.linkedin.com/in/oseola-oluwaseun-a5a77a128/
 
-GitHub  
+**GitHub**  
 https://github.com/Busayosage
