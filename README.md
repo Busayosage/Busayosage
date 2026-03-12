@@ -7,13 +7,13 @@ My work focuses on using data to improve decision-making, operational efficiency
 
 ---
 
-## Featured Projects
+# Featured Projects
 
-### Predicting Demand for Perishable Goods
+## Predicting Demand for Perishable Goods
 
 Python project analysing historical sales data to forecast demand for perishable products.
 
-**Tools used**
+### Tools Used
 
 * Python
 * Pandas
@@ -26,18 +26,18 @@ https://github.com/Busayosage/predicting_demand_for_perishable_goods
 
 ---
 
-### Twilio Introduction: Impact on Business Operations
+## Twilio Introduction: Impact on Business Operations
 
 Business analytics project analysing the operational impact of Twilio communication technology on credit control operations.
 
-**Key analysis areas**
+### Key Analysis Areas
 
 * Reduction in payment calls
 * Revenue-generating outcomes
 * Operational time savings
 * Agent workload analysis
 
-**Tools used**
+### Tools Used
 
 * Microsoft Excel
 * Pivot Tables
@@ -49,7 +49,17 @@ https://github.com/Busayosage/Twilio_introduction_impact_on_business_operations
 
 ---
 
-## Skills
+# Project Visuals
+
+### Twilio Operational Dashboard
+
+![Twilio Dashboard](twilio_dashboard.png)
+
+Example operational dashboard analysing call outcomes, revenue indicators, and workload distribution after introducing Twilio communication technology.
+
+---
+
+# Skills
 
 * Data Analysis
 * Business Analytics
@@ -60,6 +70,7 @@ https://github.com/Busayosage/Twilio_introduction_impact_on_business_operations
 
 ---
 
-## Connect With Me
+# Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/oseola-oluwaseun-a5a77a128)
+LinkedIn:
+https://www.linkedin.com/in/oseola-oluwaseun-a5a77a128
