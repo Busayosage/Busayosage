@@ -1,93 +1,90 @@
- Hi, I'm Seun Oseola 👋
+# Data Analyst | Python | SQL | Excel | Data Visualisation | Operational Analytics
 
-Data Analyst | Python, SQL & Power BI | Turning Data into Operational Insights
+## Professional Summary
 
-I am a data analyst with a background in business process analysis and credit control operations. My work focuses on using data to improve operational efficiency, support performance monitoring, and generate actionable business insights.
+I transform operational and customer data into actionable insights that drive business decisions. My portfolio explores demand forecasting, customer behaviour analysis and operational performance evaluation using Python, SQL, Excel and data‑visualisation tools. I enjoy solving real business problems with data and communicating insights clearly to stakeholders.
 
----
-
-## Featured Projects
+## Featured Analytics Projects
 
 ### Predicting Demand for Perishable Goods
-Python project analysing historical sales data to forecast demand for perishable products.
 
-**Tools used:**
-- Python
-- Pandas
-- NumPy
-- Exploratory Data Analysis
-- Forecasting
+**Description:** Exploratory data‑analysis project investigating demand patterns, price elasticity and marketing impact on perishable goods sales.
 
-**Repository**  
-https://github.com/Busayosage/predicting_demand_for_perishable_goods
+**Key Analysis:**
+
+- Sales trend analysis
+- Price vs demand relationship
+- Marketing spend impact
+- Product wastage insights
+
+**Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn
+
+**Repository:** [predicting_demand_for_perishable_goods](https://github.com/Busayosage/predicting_demand_for_perishable_goods)
 
 ---
 
-### E-commerce Customer Cohort Analysis
-Customer retention analysis using cohort techniques to measure engagement and repeat purchase behaviour.
+### Ecommerce Cohort Analysis
 
-**Key analysis areas:**
+**Description:** Customer cohort analysis examining retention patterns and repeat purchase behaviour in an e‑commerce environment.
+
+**Key Analysis:**
+
 - Customer retention trends
-- Customer lifecycle analysis
-- Repeat purchase behaviour
-- Cohort-based engagement tracking
+- Cohort segmentation
+- Lifecycle behaviour analysis
 
-**Tools used:**
-- Python
-- Pandas
-- Data visualisation
-- Cohort analysis
+**Tools:** Python, Pandas, Jupyter Notebook
 
-**Repository**  
-https://github.com/Busayosage/ecommerce-cohort-analysis
+**Repository:** [ecommerce‑cohort‑analysis](https://github.com/Busayosage/ecommerce-cohort-analysis)
 
 ---
 
 ### Twilio Operational Impact Analysis
-Business analytics project analysing the operational impact of Twilio communication technology on credit control operations.
 
-**Key insights:**
-- Reduction in payment calls
-- Revenue-generating outcomes
-- Operational time savings
-- Agent workload analysis
+**Description:** Operational analytics project analysing Twilio communication data to evaluate call outcomes, operational efficiency and potential time savings.
 
-**Tools used:**
-- Microsoft Excel
-- Pivot Tables
-- KPI analysis
-- Operational dashboards
+**Key Analysis:**
 
-**Repository**  
-https://github.com/Busayosage/Twilio_introduction_impact_on_business_operations
+- Call duration analysis
+- Operational KPI reporting
+- Pivot table dashboards
+
+**Tools:** Excel, data analysis, operational KPI evaluation
+
+**Repository:** [Twilio_introduction_impact_on_business_operations](https://github.com/Busayosage/Twilio_introduction_impact_on_business_operations)
 
 ---
+
+### AI Service Lead Router
+
+**Description:** AI‑driven lead routing and automation system integrating Airtable, WhatsApp Business API and voice agents.
+
+**Key Focus:**
+
+- Automation workflow design
+- AI‑assisted lead handling
+- System orchestration
+
+**Tools:** Airtable, Make.com, WhatsApp API, AI automation
+
+**Repository:** [ai-service-lead-router](https://github.com/Busayosage/ai-service-lead-router-main)
 
 ## Project Visuals
 
-### Twilio Operational Dashboard
-![Twilio Dashboard](twilio_dashboard.png)
+Below is an example dashboard from one of my projects. This chart demonstrates how I visualise and communicate operational insights.
 
-Example operational dashboard analysing call outcomes, revenue indicators, and workload distribution after introducing Twilio communication technology.
-
----
+![Twilio Operational Dashboard](twilio_dashboard.png)
 
 ## Skills
 
-- Data Analysis
-- Business Analytics
-- Excel Dashboards
-- Python (Pandas, EDA)
+- Data analysis
+- Excel dashboards
+- Python (Pandas, NumPy)
 - SQL
-- Operational KPI Analysis
-- Data Visualisation
-
----
+- Operational KPI analysis
+- Data visualisation
 
 ## Connect With Me
 
-**LinkedIn**  
-https://www.linkedin.com/in/oseola-oluwaseun-a5a77a128/
-
-**GitHub**  
-https://github.com/Busayosage
+- [LinkedIn](https://www.linkedin.com/in/oseola-oluwaseun-a5a77a128/)
+- [GitHub](https://github.com/Busayosage)
